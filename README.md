@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 [![kyuleeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuleeee)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I’m currently working on Artifical Intelligence (Especially on Multi-Agent System, Reinforcement Learning, Large Language Model and so on) 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuleeee)](https://github.com/anuraghazra/github-readme-stats)
