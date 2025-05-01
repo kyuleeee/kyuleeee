@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 
 - Blog : [![블로그](https://img.shields.io/badge/Velog-000000?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@qlwkej285-/posts)
-- Portfolio : [![노션](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://pointy-halloumi-ae7.notion.site/Jeong-Youn-Kwon-s-Portfolio-f48de13cf3454abf8b71b25d04a16849?pvs=4)
+- Portfolio : [![노션](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://sites.google.com/view/jykwon)
